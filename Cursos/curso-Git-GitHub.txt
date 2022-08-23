@@ -1,0 +1,10 @@
+Por que usar o Git/GitHub?
+
+(escrevo em italiano - língua que gosto muito)
+Che siate sviluppatori per professione o per diletto, con tutta probabilità avrete incontrato il concetto di “controllo delle versioni”. Saprete che aggiungere una nuova funzionalità, sistemarne una che invece non va bene o tornare a una condizione precedente sono tutte cose che capitano quotidianamente.
+
+Questo richiede l’uso di uno strumento potente che possa aiutarvi a seguire con cura il vostro lavoro, consentendovi di navigare nel vostro progetto rapidamente e senza attrito.
+
+Sul mercato si trovano molti strumenti che svolgono questo compito, proprietari e open source. Di solito incontrerete Version Control Systems (VCS) e Distributed Version Control Systems (DVCS). Esempi di strumenti centralizzati sono Concurrent Version System (CVS), Subversion (SVN), Team Foundation Server (TFS) e Perforce Helix; fra i DVCS, Bazaar, Mercurial e Git. La differenza principale fra le due famiglie sta nel fatto che nei sistemi centralizzati esiste il vincolo di un server remoto da cui scaricare e in cui caricare i vostri file; e, come ben sapete, se la rete non è accessibile si finisce nei guai. Nei DVCS, invece, si può avere o meno un server remoto (o anche più di uno), ma si può anche lavorare offline. Tutte le modifiche vengono registrate localmente; possono essere sincronizzate in seguito. Oggi Git è il DVCS che si è guadagnato il favore del pubblico più degli altri, ed è cresciuto rapidamente da strumento di nicchia a strumento d’elezione.
+
+Git è diventato di fatto lo strumento di controllo delle versioni del codice sorgente. È il secondo figlio celebre di Linus Torvalds che, dopo aver creato il kernel di Linux, ha realizzato questo software di versioning per tenere traccia dei milioni di righe del suo codice.
